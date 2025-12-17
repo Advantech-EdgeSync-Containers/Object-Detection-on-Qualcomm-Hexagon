@@ -158,8 +158,8 @@ Object-Detection-on-Qualcomm-Hexagon/
 > If you are on **Windows**, please follow the steps in [Windows Git Line Ending Setup](./windows-git-setup.md) before cloning to ensure scripts and configuration files work correctly on Device.
 
 ```bash
-git clone https://github.com/Advantech-EdgeSync-Containers/Nagarro-Container-Project.git
-cd Nagarro-Container-Project
+git clone https://github.com/Advantech-EdgeSync-Containers/Object-Detection-on-Qualcomm-Hexagon.git
+cd Object-Detection-on-Qualcomm-Hexagon
 ```
 
 ### Transfer the `Object-Detection-on-Qualcomm-Hexagon` Folder to QCS6490 Board

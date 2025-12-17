@@ -44,15 +44,15 @@ This step guides you through exporting the quantized YOLOv8n model. Choose the a
 ### First-Time Setup (Clone Needed)
 ```bash
 # Clone the project repository
-git clone https://github.com/Advantech-EdgeSync-Containers/Nagarro-Container-Project.git
+git clone https://github.com/Advantech-EdgeSync-Containers/Object-Detection-on-Qualcomm-Hexagon.git
 
 # Move into the proper directory
-cd Nagarro-Container-Project/Object-Detection-on-Qualcomm-Hexagon
+cd Object-Detection-on-Qualcomm-Hexagon
 ```
 ### Repository Already Cloned
 ```bash
 # Navigate directly to the working directory
-cd Nagarro-Container-Project/Object-Detection-on-Qualcomm-Hexagon
+cd Object-Detection-on-Qualcomm-Hexagon
 ```
 
 ### Export Model Script Execution
