@@ -2,7 +2,7 @@ version: "3.8"
 services:
   object-detection-on-qualcomm-hexagon:
     container_name: Object-Detection-on-Qualcomm-Hexagon
-    image: harbor.edgesync.cloud/nagarro-container-images/object-detection-on-qualcomm-hexagon:v1
+    image: edgesync.azurecr.io/advantech/object-detection-on-qualcomm-hexagon:1.3.0-Ubuntu22.04-ARM
     user: "0:0"
     privileged: true
     volumes:
